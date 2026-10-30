@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": "resources.assets",
+      "patch": "01.bsdiff",
+      "original_sha256": "66e59172c20f3ebc0ece1e23ea27c5df82ccb97df720da6b8047afe7ea8b9a3e",
+      "patched_sha256": "be8c84e569d34ccbf0c50c3511d4113d1923918872df279e1539d30062a6872e",
+      "patch_sha256": "cebd58e17fc36a5d216f9d6133c1fa8fa2e98c9424fae5b2fd9e4e89b9807c72"
+    },
+    {
+      "path": "sharedassets1.assets",
+      "patch": "02.bsdiff",
+      "original_sha256": "189a5c665ff7bbae3c71d09ad18f0381d20109e36e3da52197fd695aa6db6360",
+      "patched_sha256": "1f67f33af633cd64d332c40314f56ae42df6abb11842606ef28f0ad68b8caed6",
+      "patch_sha256": "0e5fe9609b6cefc8202246da859c1a5774ba183f243f046794f5df23821110e0"
+    },
+    {
+      "path": "sharedassets3.assets",
+      "patch": "03.bsdiff",
+      "original_sha256": "8378a7ace5434a3cb21568e7eaea552eff7d836e02e5f10cf81b4630fbcab695",
+      "patched_sha256": "2adb9e2d8d00378a7895a57e9d9c04d44952d158eeb7dd5f168e4dfdb01249d2",
+      "patch_sha256": "70676244ec3d240723327569d30e1fe0ecef74059666791abfcba9b0e958b613"
+    },
+    {
+      "path": "level3",
+      "patch": "04.bsdiff",
+      "original_sha256": "fd49f860ce629456a2e744909688c2eb06390bea994c60b01795f8cce738ac17",
+      "patched_sha256": "31ce44ca7a0289d24461d16434df59b2281fe5b2fe61f1c46071cfe6ca9cd1b1",
+      "patch_sha256": "f2c6614d647b78925e6a05049522a731d558b51eb29eba34cda1ff62aedef7fd"
+    },
+    {
+      "path": "StreamingAssets/aa/catalog.bin",
+      "patch": "05.bsdiff",
+      "original_sha256": "0a09d07c21bc323413a7fe90f2126974d6bcf6769f3ce66b06ec68bf4510d597",
+      "patched_sha256": "61a812f82bb88b0b4b0948667bad854817b950afbe61265e34970d4988ed65a1",
+      "patch_sha256": "0e40f2b6cce95ff36ac56b09d7ba7fd33cfe73c1a72e532015dbabaac7d6727c"
+    },
+    {
+      "path": "StreamingAssets/aa/StandaloneWindows64/standaloneseason1documents_assets_all_2593474d90474abf90121768e694fa67.bundle",
+      "patch": "06.bsdiff",
+      "original_sha256": "e729389f58c7ffa4553cf2f1f20b1682f041c35bf266e4589c2d852b26b09e2a",
+      "patched_sha256": "5094e6580486b579322915d672bde203dab88005b59032a3f13acfa2e9656b2d",
+      "patch_sha256": "1785645a16a8cc1c719a04c0c289955b9c8941892819b1b8068df3fe42b26bd4"
+    }
+  ]
+}
